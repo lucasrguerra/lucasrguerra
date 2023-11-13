@@ -9,5 +9,5 @@
 ### Trophies:
 
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ErickSimoes&theme=darkhub&margin-w=3&margin-h=15"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrguerra&theme=darkhub&margin-w=3&margin-h=15"/>
 </div>
