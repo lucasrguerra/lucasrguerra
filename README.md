@@ -3,8 +3,8 @@
   I'm Lucas (^-^)
 </h1>
 
-![]([github-snake.svg](https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/dist/github-snake.svg)#gh-light-mode-only)
-![]([github-snake-dark.svg](https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/dist/github-snake-dark.svg?palette=github-dark)#gh-dark-mode-only)
+![github-snake.svg](https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github-snake-dark.svg](https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### My Top Languages and Tools:
 
