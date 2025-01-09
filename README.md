@@ -3,8 +3,11 @@
   I'm Lucas (^-^)
 </h1>
 
-![github-snake.svg](https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github-snake-dark.svg](https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasrguerra/lucasrguerra/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### My Top Languages and Tools:
 
